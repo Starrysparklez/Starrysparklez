@@ -89,4 +89,4 @@
 - I like to learn new things, **but I rarely dare to take a job in which I have no experience.**
 
 <h3 align="left">Contacts</h3>
-- **[Discord (desktop client)](discord://discord.com/users/556437901509001216)** or **[Discord (web browser)](https://discord.com/users/556437901509001216)**
+- <b>[Discord (desktop client)](discord://discord.com/users/556437901509001216)</b> or <b>[Discord (web browser)](https://discord.com/users/556437901509001216) </b>
